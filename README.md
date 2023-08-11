@@ -1,4 +1,4 @@
-# chatgpt_prompt
+# Using ChatGpt API In Python
 
 this is collection of some python program which use the ChatGpt API.
 
