@@ -1,4 +1,4 @@
-# Using ChatGpt API In Python
+# Using Chat-Gpt API In Python
 
 this is collection of some python program which use the ChatGpt API.
 
