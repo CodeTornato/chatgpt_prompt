@@ -37,3 +37,5 @@ while True:
 
     
     print("AI Response:", ai_response)
+    #thats it you can ask question im terminal now
+    
