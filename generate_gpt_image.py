@@ -9,7 +9,7 @@ url = "https://api.openai.com/v1/images/generations"
 headers = {
     "Content-Type": "application/json",
     "Authorization": "YOUR_API_KEY"
-} # paste your api key here 
+} # paste your api key for the authrization
 
 # Define the request payload
 payload = {
