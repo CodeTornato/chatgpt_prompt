@@ -11,5 +11,5 @@ this is collection of some python program which use the ChatGpt API.
 
   chat-gpt that have the personality
 
- more to explore
-  
+ more api usage to explore
+
