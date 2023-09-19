@@ -10,6 +10,6 @@ this is collection of some python program which use the ChatGpt API.
   generating image with chatgpt API,kind of like midjourney, but quality is not as good as midjourney.
   
 
-  chat-gpt with the custom personality
+  chat-gpt with the custom personality,initial prompt
 
 
