@@ -3,7 +3,7 @@
 this is collection of python programs which use the ChatGpt API.
 
 
-  chatgpt terminall built-in
+  chatgpt linux terminall built-in
   
 
   
